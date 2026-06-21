@@ -1,0 +1,61 @@
+; Sonar Configuration File
+
+[sonar]
+; Your bot token from discord.com/developers/applications
+token=
+; Path to SQLite database file
+database=
+
+[server]
+; Role names that count as admins for moderation commands
+admins=()
+; Role assigned after successful verification
+verified-role=
+; Role assigned on member join (removed after verify)
+unverified-role=
+; Password users must type in the verify channel
+verification-password=
+; Name of the channel where users type the verify password
+verify-channel=
+; Seconds before a user can try again after too many failed attempts
+verify-cooldown=
+; How many wrong attempts before cooldown kicks in
+verify-max-attempts=
+
+[welcome]
+; Channel name to send welcome messages in
+channel=
+; Message template. {user} = mention, {server} = server name
+message=
+
+[logging]
+; Channel name for mod logs, join logs, confession reports etc.
+channel=
+
+[confessions]
+; Channel name where confessions are posted
+channel=
+
+[birthdays]
+; Channel name where birthday messages are sent
+channel=
+
+[starboard]
+; Channel name for the starboard
+channel=
+; Number of reactions needed to appear on starboard
+threshold=
+channel=starboard
+; Number of my reactions needed to appear on starboard
+threshold=
+are sent
+channel=general
+
+[starboard]
+; Channel name for the starboard
+channel=starboard
+; Number of reactions needed to appear on starboard
+threshold=3
+channel=starboard
+; Number of ⭐ reactions needed to appear on starboard
+threshold=3
