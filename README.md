@@ -79,4 +79,3 @@ to the starboard channel. The star count on the starboard post updates live.
 
 
 Apache License 2.0
- is to make sure no nefarious evil individuals use this commercially.
