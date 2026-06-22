@@ -1,49 +1,32 @@
-PolyForm Noncommercial License 1.0.0
+0AI-MIT-NC License
+Version 1.0 (2026)
+Copyright (C) 2026 Team Oculine
 
-Astriam, Inc. (doing business as PolyForm Project) provides this license 
-to encourage the sharing of software for noncommercial purposes.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
 
-Acceptance
-By using, copying, modifying, or distributing this software, you accept 
-this license.
+1. THE ABOVE COPYRIGHT NOTICE AND THIS PERMISSION NOTICE SHALL BE INCLUDED IN 
+   ALL COPIES OR SUBSTANTIAL PORTIONS OF THE SOFTWARE.
 
-Copyright Grant
-The licensor grants you a nonexclusive, royalty-free, worldwide, 
-perpetual copyright license to use, copy, modify, and distribute this 
-software for noncommercial purposes.
+2. NON-COMMERCIAL RESTRICTION: The Software shall be used strictly for 
+   non-commercial purposes. Any use, hosting, execution, or distribution of 
+   this software that generates revenue, accepts paid donations, or directly 
+   supports a for-profit business or commercial enterprise is strictly prohibited.
 
-Patent Grant
-The licensor grants you a nonexclusive, royalty-free, worldwide, 
-perpetual patent license to make, have made, use, sell, offer for sale, 
-import, and otherwise transfer this software for noncommercial purposes, 
-under patents the licensor can license that are infringed by this 
-software.
+3. ZERO-AI RESTRICTION: Permission is explicitly DENIED for this software, 
+   its source code, its documentation, or its metadata to be processed, scraped, 
+   or used for machine learning training, large language model (LLM) fine-tuning, 
+   dataset inclusion, or automated code generation emulation (including, but 
+   not limited to, services such as GitHub Copilot, OpenAI Codex, Claude, 
+   and similar AI systems).
 
-Noncommercial Purpose
-A purpose is noncommercial if it does not involve or intend to achieve 
-commercial advantage or monetary compensation. Examples of commercial 
-purposes include charging for copies or hosting, using the software to 
-provide paid support services, and using the software in running a 
-business.
-
-Distribution
-You must include a copy of this license and all copyright, patent, 
-trademark, and attribution notices with any copy of this software you 
-distribute.
-
-Notices
-You may not remove or alter any copyright, patent, trademark, or 
-attribution notices in this software.
-
-No Other Rights
-This license does not grant any trademark or other rights.
-
-Disclaimer
-THIS SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS 
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL 
-THE LICENSORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, 
-WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT 
-OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
-THE 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
