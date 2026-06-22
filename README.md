@@ -78,4 +78,4 @@ to the starboard channel. The star count on the starboard post updates live.
 ## License
 
 
-PolyForm Noncommercial 1.0
+0AI-MIT-NC Version 1.0
